@@ -11,5 +11,5 @@ Custom View is used to set corner radius and shadow on a UIVew
 pod 'Custom_Card'
 
 ## Usage
-<img src='b.png' height=200 width=300 />
+<img src='b.png' height=150 width=350 />
 
